@@ -19,35 +19,31 @@
     "package": "avesperu",
     "url": "https://github.com/PaulESantos/avesperu"
   },
-    {
-    "package": "perumammals",
-    "url": "https://github.com/PaulESantos/perumammals"
-  },
-    {
+  {
     "package": "ppendemic",
-    "url": "https://github.com/PaulESantos/ppendemic",
+    "url": "https://github.com/PaulESantos/ppendemic"
   },
-    {
+  {
     "package": "peruflorads43",
     "url": "https://github.com/PaulESantos/peruflorads43"
   },
-    {
+  {
     "package": "fuzzystring",
     "url": "https://github.com/PaulESantos/fuzzystring"
   },
-    {
+  {
     "package": "rsdot",
     "url": "https://github.com/PaulESantos/rsdot"
   },
-    {
+  {
     "package": "reptiledbr",
     "url": "https://github.com/PaulESantos/reptiledbr"
   },
-    {
+  {
     "package": "redbookperu",
     "url": "https://github.com/PaulESantos/redbookperu"
   },
-    {
+  {
     "package": "ttmoment",
     "url": "https://github.com/PaulESantos/ttmoment"
   }
